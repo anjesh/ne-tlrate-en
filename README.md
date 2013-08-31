@@ -1,5 +1,6 @@
-This a simple rule base nepali to english converter.
+# ne-tlrate-en
 
-Files:
-latin.pattern : This contains all the rules for conversion
+Nepali to English Transliteration
+
+Simple rules based Nepali to English Transliteration
 
